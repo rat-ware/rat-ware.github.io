@@ -1,0 +1,15 @@
+baseURL = 'https://rat-ware.github.io'
+theme = "LoveIt"
+title = 'rat-ware'
+languageCode = "en"
+languageName = "English"
+hasCJKLanguage = false
+paginate = 12
+enableRobotsTXT = true
+enableGitInfo = false
+enableEmoji = true
+
+[author]
+  name = "rat-ware"
+  email = "rika.rat-ware@proton.me"
+  link = "https://rat-ware.github.io"

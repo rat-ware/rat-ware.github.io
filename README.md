@@ -1,2 +1,4 @@
 # rat-ware.github.io
-Portfolio &amp; blog about malware analysis, reverse engineering &amp; cheese 🧀
+Personal Blog about Malware Analysis, Reverse Engineering & General Mischief 🐀
+
+Website: https://rat-ware.github.io/
